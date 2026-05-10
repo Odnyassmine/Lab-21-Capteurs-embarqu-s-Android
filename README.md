@@ -1,4 +1,4 @@
-# 📱 Lab 21 — Capteurs Embarqués Android (Sensor Lab)
+# 📱 Lab 21 — Capteurs Embarqués Android 
 
 Application Android pédagogique permettant d'exploiter les capteurs embarqués d'un smartphone : liste des capteurs, visualisation graphique des mesures, accéléromètre, gyroscope, boussole, compteur de pas et reconnaissance d'activité.
 
